@@ -1,0 +1,14 @@
+{
+  "routes": {
+    "/": {},
+    "/admin/category": {},
+    "/admin/category/add": {},
+    "/admin/product": {},
+    "/admin/product/addproduct": {},
+    "/cart/summary": {},
+    "/payment/success": {},
+    "/user/login": {},
+    "/user/logout": {},
+    "/user/register": {}
+  }
+}
