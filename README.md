@@ -12,7 +12,7 @@ This project uses a full-stack technology architecture with separate frontend an
 Backend Technologies
 The backend is built with Java 17 and Spring Boot 3.4.4. Key technologies include:
 
-Framework: Spring Framework
+Framework: Spring Framework\n
 Database: PostgreSQL with Spring Data JPA for persistence
 Security: Spring Security with JWT (JSON Web Tokens) for authentication
 Payment Processing: PayPal REST API SDK (version 1.14.0)
